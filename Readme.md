@@ -57,7 +57,7 @@ The following topics need to be installed before using the tool.
 - In the appropriate path where the input csv is provided, the final output csv will be produced.
 
 
-## Purpose
+## Purpose-Secret-Santa
 
 - Each employee is required to choose another employee as their secret child, to whom they will anonymously give a gift during the event. 
 
